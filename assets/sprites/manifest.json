@@ -1,139 +1,280 @@
 {
   "version": 1,
-  "status": "Supplied expression sheets connected; selected core expressions",
+  "status": "Transparent, completed and uniformly scaled character sprites",
   "characters": {
     "jiro": {
-      "neutral": "assets/sprites/jiro/neutral.webp",
-      "smile": "assets/sprites/jiro/smile.webp",
-      "shy": "assets/sprites/jiro/shy.webp",
-      "serious": "assets/sprites/jiro/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/jiro/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/jiro/smile.webp",
+      "shy": "assets/sprites/transparent-v2/jiro/shy.webp",
+      "serious": "assets/sprites/transparent-v2/jiro/serious.webp"
     },
     "ashido": {
-      "neutral": "assets/sprites/ashido/neutral.webp",
-      "smile": "assets/sprites/ashido/smile.webp",
-      "shy": "assets/sprites/ashido/shy.webp",
-      "serious": "assets/sprites/ashido/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/ashido/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/ashido/smile.webp",
+      "shy": "assets/sprites/transparent-v2/ashido/shy.webp",
+      "serious": "assets/sprites/transparent-v2/ashido/serious.webp"
     },
     "asui": {
-      "neutral": "assets/sprites/asui/neutral.webp",
-      "smile": "assets/sprites/asui/smile.webp",
-      "shy": "assets/sprites/asui/shy.webp",
-      "serious": "assets/sprites/asui/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/asui/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/asui/smile.webp",
+      "shy": "assets/sprites/transparent-v2/asui/shy.webp",
+      "serious": "assets/sprites/transparent-v2/asui/serious.webp"
     },
     "todoroki": {
-      "neutral": "assets/sprites/todoroki/neutral.webp",
-      "smile": "assets/sprites/todoroki/smile.webp",
-      "shy": "assets/sprites/todoroki/shy.webp",
-      "serious": "assets/sprites/todoroki/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/todoroki/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/todoroki/smile.webp",
+      "shy": "assets/sprites/transparent-v2/todoroki/shy.webp",
+      "serious": "assets/sprites/transparent-v2/todoroki/serious.webp"
     },
     "yaoyorozu": {
-      "neutral": "assets/sprites/yaoyorozu/neutral.webp",
-      "smile": "assets/sprites/yaoyorozu/smile.webp",
-      "shy": "assets/sprites/yaoyorozu/shy.webp",
-      "serious": "assets/sprites/yaoyorozu/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/yaoyorozu/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/yaoyorozu/smile.webp",
+      "shy": "assets/sprites/transparent-v2/yaoyorozu/shy.webp",
+      "serious": "assets/sprites/transparent-v2/yaoyorozu/serious.webp"
     },
     "uraraka": {
-      "neutral": "assets/sprites/uraraka/neutral.webp",
-      "smile": "assets/sprites/uraraka/smile.webp",
-      "shy": "assets/sprites/uraraka/shy.webp",
-      "serious": "assets/sprites/uraraka/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/uraraka/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/uraraka/smile.webp",
+      "shy": "assets/sprites/transparent-v2/uraraka/shy.webp",
+      "serious": "assets/sprites/transparent-v2/uraraka/serious.webp"
     },
     "bakugo": {
-      "neutral": "assets/sprites/bakugo/neutral.webp",
-      "smile": "assets/sprites/bakugo/smile.webp",
-      "shy": "assets/sprites/bakugo/shy.webp",
-      "serious": "assets/sprites/bakugo/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/bakugo/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/bakugo/smile.webp",
+      "shy": "assets/sprites/transparent-v2/bakugo/shy.webp",
+      "serious": "assets/sprites/transparent-v2/bakugo/serious.webp"
     },
     "midoriya": {
-      "neutral": "assets/sprites/midoriya/neutral.webp",
-      "smile": "assets/sprites/midoriya/smile.webp",
-      "shy": "assets/sprites/midoriya/shy.webp",
-      "serious": "assets/sprites/midoriya/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/midoriya/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/midoriya/smile.webp",
+      "shy": "assets/sprites/transparent-v2/midoriya/shy.webp",
+      "serious": "assets/sprites/transparent-v2/midoriya/serious.webp"
     },
     "ojiro": {
-      "neutral": "assets/sprites/ojiro/neutral.webp",
-      "smile": "assets/sprites/ojiro/smile.webp",
-      "shy": "assets/sprites/ojiro/shy.webp",
-      "serious": "assets/sprites/ojiro/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/ojiro/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/ojiro/smile.webp",
+      "shy": "assets/sprites/transparent-v2/ojiro/shy.webp",
+      "serious": "assets/sprites/transparent-v2/ojiro/serious.webp"
     },
     "tokoyami": {
-      "neutral": "assets/sprites/tokoyami/neutral.webp",
-      "smile": "assets/sprites/tokoyami/smile.webp",
-      "shy": "assets/sprites/tokoyami/shy.webp",
-      "serious": "assets/sprites/tokoyami/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/tokoyami/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/tokoyami/smile.webp",
+      "shy": "assets/sprites/transparent-v2/tokoyami/shy.webp",
+      "serious": "assets/sprites/transparent-v2/tokoyami/serious.webp"
     },
     "iida": {
-      "neutral": "assets/sprites/iida/neutral.webp",
-      "smile": "assets/sprites/iida/smile.webp",
-      "shy": "assets/sprites/iida/shy.webp",
-      "serious": "assets/sprites/iida/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/iida/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/iida/smile.webp",
+      "shy": "assets/sprites/transparent-v2/iida/shy.webp",
+      "serious": "assets/sprites/transparent-v2/iida/serious.webp"
     },
     "kaminari": {
-      "neutral": "assets/sprites/kaminari/neutral.webp",
-      "smile": "assets/sprites/kaminari/smile.webp",
-      "shy": "assets/sprites/kaminari/shy.webp",
-      "serious": "assets/sprites/kaminari/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/kaminari/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/kaminari/smile.webp",
+      "shy": "assets/sprites/transparent-v2/kaminari/shy.webp",
+      "serious": "assets/sprites/transparent-v2/kaminari/serious.webp"
     },
     "kirishima": {
-      "neutral": "assets/sprites/kirishima/neutral.webp",
-      "smile": "assets/sprites/kirishima/smile.webp",
-      "shy": "assets/sprites/kirishima/shy.webp",
-      "serious": "assets/sprites/kirishima/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/kirishima/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/kirishima/smile.webp",
+      "shy": "assets/sprites/transparent-v2/kirishima/shy.webp",
+      "serious": "assets/sprites/transparent-v2/kirishima/serious.webp"
     },
     "toru": {
-      "neutral": "assets/sprites/toru/neutral.webp",
-      "smile": "assets/sprites/toru/smile.webp",
-      "shy": "assets/sprites/toru/shy.webp",
-      "serious": "assets/sprites/toru/serious.webp",
-      "visor": "assets/sprites/toru/visor.webp"
+      "neutral": "assets/sprites/transparent-v2/toru/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/toru/smile.webp",
+      "shy": "assets/sprites/transparent-v2/toru/shy.webp",
+      "serious": "assets/sprites/transparent-v2/toru/serious.webp",
+      "visor": "assets/sprites/transparent-v2/toru/visor.webp",
+      "visorClosed": "assets/sprites/transparent-v2/toru/visorClosed.webp"
     },
     "aizawa": {
-      "neutral": "assets/sprites/aizawa/neutral.webp",
-      "smile": "assets/sprites/aizawa/smile.webp",
-      "serious": "assets/sprites/aizawa/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/aizawa/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/aizawa/smile.webp",
+      "serious": "assets/sprites/transparent-v2/aizawa/serious.webp"
     },
     "hagakure": {
-      "neutral": "assets/sprites/hagakure/neutral.webp",
-      "smile": "assets/sprites/hagakure/smile.webp",
-      "shy": "assets/sprites/hagakure/shy.webp",
-      "serious": "assets/sprites/hagakure/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/hagakure/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/hagakure/smile.webp",
+      "shy": "assets/sprites/transparent-v2/hagakure/shy.webp",
+      "serious": "assets/sprites/transparent-v2/hagakure/serious.webp"
     },
     "sero": {
-      "neutral": "assets/sprites/sero/neutral.webp",
-      "smile": "assets/sprites/sero/smile.webp",
-      "shy": "assets/sprites/sero/shy.webp",
-      "serious": "assets/sprites/sero/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/sero/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/sero/smile.webp",
+      "shy": "assets/sprites/transparent-v2/sero/shy.webp",
+      "serious": "assets/sprites/transparent-v2/sero/serious.webp"
     },
     "koda": {
-      "neutral": "assets/sprites/koda/neutral.webp",
-      "smile": "assets/sprites/koda/smile.webp",
-      "shy": "assets/sprites/koda/shy.webp",
-      "serious": "assets/sprites/koda/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/koda/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/koda/smile.webp",
+      "shy": "assets/sprites/transparent-v2/koda/shy.webp",
+      "serious": "assets/sprites/transparent-v2/koda/serious.webp"
     },
     "sato": {
-      "neutral": "assets/sprites/sato/neutral.webp",
-      "smile": "assets/sprites/sato/smile.webp",
-      "shy": "assets/sprites/sato/shy.webp",
-      "serious": "assets/sprites/sato/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/sato/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/sato/smile.webp",
+      "shy": "assets/sprites/transparent-v2/sato/shy.webp",
+      "serious": "assets/sprites/transparent-v2/sato/serious.webp"
     },
     "aoyama": {
-      "neutral": "assets/sprites/aoyama/neutral.webp",
-      "smile": "assets/sprites/aoyama/smile.webp",
-      "shy": "assets/sprites/aoyama/shy.webp",
-      "serious": "assets/sprites/aoyama/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/aoyama/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/aoyama/smile.webp",
+      "shy": "assets/sprites/transparent-v2/aoyama/shy.webp",
+      "serious": "assets/sprites/transparent-v2/aoyama/serious.webp"
     },
     "mineta": {
-      "neutral": "assets/sprites/mineta/neutral.webp",
-      "smile": "assets/sprites/mineta/smile.webp",
-      "shy": "assets/sprites/mineta/shy.webp",
-      "serious": "assets/sprites/mineta/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/mineta/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/mineta/smile.webp",
+      "shy": "assets/sprites/transparent-v2/mineta/shy.webp",
+      "serious": "assets/sprites/transparent-v2/mineta/serious.webp"
     },
     "shoji": {
-      "neutral": "assets/sprites/shoji/neutral.webp",
-      "smile": "assets/sprites/shoji/smile.webp",
-      "shy": "assets/sprites/shoji/shy.webp",
-      "serious": "assets/sprites/shoji/serious.webp"
+      "neutral": "assets/sprites/transparent-v2/shoji/neutral.webp",
+      "smile": "assets/sprites/transparent-v2/shoji/smile.webp",
+      "shy": "assets/sprites/transparent-v2/shoji/shy.webp",
+      "serious": "assets/sprites/transparent-v2/shoji/serious.webp"
     }
   },
-  "menuPortrait": "assets/sprites/toru/menu.webp"
+  "thumbnails": {
+    "jiro": {
+      "neutral": "assets/sprites/transparent-v2/jiro/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/jiro/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/jiro/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/jiro/thumb-serious.webp"
+    },
+    "ashido": {
+      "neutral": "assets/sprites/transparent-v2/ashido/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/ashido/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/ashido/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/ashido/thumb-serious.webp"
+    },
+    "asui": {
+      "neutral": "assets/sprites/transparent-v2/asui/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/asui/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/asui/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/asui/thumb-serious.webp"
+    },
+    "todoroki": {
+      "neutral": "assets/sprites/transparent-v2/todoroki/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/todoroki/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/todoroki/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/todoroki/thumb-serious.webp"
+    },
+    "yaoyorozu": {
+      "neutral": "assets/sprites/transparent-v2/yaoyorozu/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/yaoyorozu/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/yaoyorozu/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/yaoyorozu/thumb-serious.webp"
+    },
+    "uraraka": {
+      "neutral": "assets/sprites/transparent-v2/uraraka/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/uraraka/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/uraraka/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/uraraka/thumb-serious.webp"
+    },
+    "bakugo": {
+      "neutral": "assets/sprites/transparent-v2/bakugo/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/bakugo/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/bakugo/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/bakugo/thumb-serious.webp"
+    },
+    "midoriya": {
+      "neutral": "assets/sprites/transparent-v2/midoriya/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/midoriya/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/midoriya/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/midoriya/thumb-serious.webp"
+    },
+    "ojiro": {
+      "neutral": "assets/sprites/transparent-v2/ojiro/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/ojiro/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/ojiro/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/ojiro/thumb-serious.webp"
+    },
+    "tokoyami": {
+      "neutral": "assets/sprites/transparent-v2/tokoyami/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/tokoyami/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/tokoyami/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/tokoyami/thumb-serious.webp"
+    },
+    "iida": {
+      "neutral": "assets/sprites/transparent-v2/iida/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/iida/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/iida/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/iida/thumb-serious.webp"
+    },
+    "kaminari": {
+      "neutral": "assets/sprites/transparent-v2/kaminari/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/kaminari/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/kaminari/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/kaminari/thumb-serious.webp"
+    },
+    "kirishima": {
+      "neutral": "assets/sprites/transparent-v2/kirishima/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/kirishima/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/kirishima/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/kirishima/thumb-serious.webp"
+    },
+    "toru": {
+      "neutral": "assets/sprites/transparent-v2/toru/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/toru/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/toru/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/toru/thumb-serious.webp",
+      "visor": "assets/sprites/transparent-v2/toru/thumb-visor.webp",
+      "visorClosed": "assets/sprites/transparent-v2/toru/thumb-visorClosed.webp"
+    },
+    "aizawa": {
+      "neutral": "assets/sprites/transparent-v2/aizawa/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/aizawa/thumb-smile.webp",
+      "serious": "assets/sprites/transparent-v2/aizawa/thumb-serious.webp"
+    },
+    "hagakure": {
+      "neutral": "assets/sprites/transparent-v2/hagakure/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/hagakure/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/hagakure/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/hagakure/thumb-serious.webp"
+    },
+    "sero": {
+      "neutral": "assets/sprites/transparent-v2/sero/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/sero/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/sero/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/sero/thumb-serious.webp"
+    },
+    "koda": {
+      "neutral": "assets/sprites/transparent-v2/koda/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/koda/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/koda/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/koda/thumb-serious.webp"
+    },
+    "sato": {
+      "neutral": "assets/sprites/transparent-v2/sato/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/sato/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/sato/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/sato/thumb-serious.webp"
+    },
+    "aoyama": {
+      "neutral": "assets/sprites/transparent-v2/aoyama/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/aoyama/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/aoyama/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/aoyama/thumb-serious.webp"
+    },
+    "mineta": {
+      "neutral": "assets/sprites/transparent-v2/mineta/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/mineta/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/mineta/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/mineta/thumb-serious.webp"
+    },
+    "shoji": {
+      "neutral": "assets/sprites/transparent-v2/shoji/thumb-neutral.webp",
+      "smile": "assets/sprites/transparent-v2/shoji/thumb-smile.webp",
+      "shy": "assets/sprites/transparent-v2/shoji/thumb-shy.webp",
+      "serious": "assets/sprites/transparent-v2/shoji/thumb-serious.webp"
+    }
+  },
+  "canvas": [
+    800,
+    800
+  ],
+  "artVersion": "transparent-v2",
+  "menuPortrait": "assets/sprites/transparent-v2/toru/menu.webp"
 }
