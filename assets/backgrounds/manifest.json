@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "artVersion": "hd-v5",
+  "backgrounds": {
+    "campus-day": "assets/backgrounds/hd-v5/campus-day.webp",
+    "classroom-day": "assets/backgrounds/hd-v5/classroom-day.webp",
+    "hallway-day": "assets/backgrounds/hd-v5/hallway-day.webp",
+    "music-evening": "assets/backgrounds/hd-v5/music-evening.webp",
+    "bedroom-day": "assets/backgrounds/hd-v5/bedroom-day.webp",
+    "infirmary-day": "assets/backgrounds/hd-v5/infirmary-day.webp",
+    "dining-day": "assets/backgrounds/hd-v5/dining-day.webp",
+    "library-day": "assets/backgrounds/hd-v5/library-day.webp",
+    "kitchen-day": "assets/backgrounds/hd-v5/kitchen-day.webp",
+    "lounge-day": "assets/backgrounds/hd-v5/lounge-day.webp",
+    "park-day": "assets/backgrounds/hd-v5/park-day.webp",
+    "rescue-day": "assets/backgrounds/hd-v5/rescue-day.webp",
+    "street-day": "assets/backgrounds/hd-v5/street-day.webp",
+    "training-day": "assets/backgrounds/hd-v5/training-day.webp",
+    "music-day": "assets/backgrounds/hd-v5/music-day.webp",
+    "bedroom-evening": "assets/backgrounds/hd-v5/bedroom-evening.webp",
+    "bedroom-night": "assets/backgrounds/hd-v5/bedroom-night.webp",
+    "hallway-evening": "assets/backgrounds/hd-v5/hallway-evening.webp",
+    "infirmary-evening": "assets/backgrounds/hd-v5/infirmary-evening.webp",
+    "dining-evening": "assets/backgrounds/hd-v5/dining-evening.webp",
+    "kitchen-evening": "assets/backgrounds/hd-v5/kitchen-evening.webp",
+    "lounge-evening": "assets/backgrounds/hd-v5/lounge-evening.webp",
+    "library-evening": "assets/backgrounds/hd-v5/library-evening.webp",
+    "street-evening": "assets/backgrounds/hd-v5/street-evening.webp",
+    "training-evening": "assets/backgrounds/hd-v5/training-evening.webp",
+    "campus-evening": "assets/backgrounds/hd-v5/campus-evening.webp",
+    "park-evening": "assets/backgrounds/hd-v5/park-evening.webp"
+  }
+}
